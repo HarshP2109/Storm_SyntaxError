@@ -17,9 +17,9 @@ const Navbar = () => {
           </li>
         </ul>
       </nav>
-      {/* <div className="navBottom"> */}
-      {/* <MovingTrain /> */}
-      {/* </div> */}
+      <div className="navBottom">
+        <MovingTrain />
+      </div>
     </header>
   );
 };
